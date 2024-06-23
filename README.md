@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, I will be building a full SOC environment. To give a brief overview, I will be making a virtual environment, next I will disable all security controls of that environment. Security events generated will be collected and analyzed. Lastly, the enviroment will be hardened and observed again. This project is inspired by ERIC CAPUANO Blog post, "So you want to be a SOC Analyst? Intro" as well as Gerald Augers video "Uncover the Secrets of a Home SOC Analyst Lab." Since these post are a bit old, ad many of the tools used have since upgraded and/or changed, we will need to make a few changes but it will mostly remain the same. 
+In this project, I will be building a full SOC environment. To give a brief overview, I will be making a virtual environment, next I will disable all security controls of that environment. Security events generated will be collected and analyzed. Lastly, the enviroment will be hardened and observed again. This project is inspired by Eric Capuano's Blog post, "So you want to be a SOC Analyst? Intro" as well as Gerald Augers video "Uncover the Secrets of a Home SOC Analyst Lab." Since these post are a bit old, ad many of the tools used have since upgraded and/or changed, we will need to make a few changes but it will mostly remain the same. 
 
 This full SOC Home Lab consist of the following components/tools:
 - VM Ware
@@ -17,7 +17,9 @@ This full SOC Home Lab consist of the following components/tools:
 To start, we will need to download VMWare to host all of our Virtual Machines.
 
 As of the making of this lab, apparently VMWare has migrated to Broadcom.com and I was unable to find the VMWare workstation needed to do this lab, but I was researching and found a download link to install VMWare Workstation 17 on Reddit. Use this link to begin installation --> https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.1/23298084/windows/core/
+- When setting up VMWare, at the end you will be given a choice to try for 30 days or put in a license key, choose the 30 day option. 
 
+![chrome_HBcaPmKm3q](https://github.com/MohammedAl13/Full-SOC-Analyst-Lab/assets/154714127/70ed8e53-1a5b-4976-a88b-c3994e95dd9f)
 
 
 
