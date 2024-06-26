@@ -21,7 +21,10 @@ As of the making of this lab, apparently VMWare has migrated to Broadcom.com and
 
 ![chrome_HBcaPmKm3q](https://github.com/MohammedAl13/Full-SOC-Analyst-Lab/assets/154714127/70ed8e53-1a5b-4976-a88b-c3994e95dd9f)
 
+Now that VMWare is setup, lets get some virtual machines running. For this portion of the lab, we will need to create both a Windows and Ubuntu virtual machine. The link for both of these can be found in Eric Capuano's Part 1 of, "So you want to be a SOC Analyst". 
 
+- To do this, open VMWare and select Create a New Virtual Machine
+- 
 
 
 
