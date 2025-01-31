@@ -1,11 +1,30 @@
-# Wireshark-Hacking-Lab
+# Active Directory Home Lab with Windows Server & PowerShell
 
-In this project, we will create a Kali Linux virtual machine (VM) alongside two pre-built FTP VMs within VirtualBox to create a controlled hacking environment. We will intercept and analyze packets transmitted between the FTP VMs using Wireshark. The network packets will be files and login information shared between the VMs. Utilizing Wireshark packet capture capabilities no logs nor traceable events will be generated, ensuring that the capture remains undetected. This project aims to explore Wireshark's capabilities in network traffic analysis and evaluate its effectiveness in identifying security vulnerabilities and enhancing network defenses. Also, we will discuss some best practices to protect your organization's information from being easily stolen by Packet Sniffers such as Wireshark at the end.
+In this project, we will set up a Windows Active Directory (AD) lab in Oracle VirtualBox to simulate a basic enterprise network. This lab will help you understand Active Directory, networking, and Windows Server management, which are essential skills for cybersecurity and IT professionals.
 
-This Hacking Lab will consist of the following components:
-- Oracle Virtual Box
-- Kali Linux VM
-- 2 ftp pre-built VMs
+**We will:**
+
+✔ Install and configure Windows Server 2019 as a Domain Controller
+
+✔ Create and manage Active Directory Users & Computers (ADUC)
+
+✔ Set up DHCP, DNS, and NAT for network connectivity
+
+✔ Join a Windows 10 Client to the Active Directory Domain
+
+✔ Use PowerShell to automate user creation in AD
+
+This home lab is perfect for learning Active Directory security concepts, testing attacks and defenses, and gaining hands-on experience in a real-world environment.
+
+**Components Used**
+
+Oracle VirtualBox – Virtualization software
+
+Windows Server 2019 – Domain Controller
+
+Windows 10 Client – Workstation joined to the domain
+
+PowerShell – Used to automate user creation in AD
 
 ***This home lab can be done for free. Unfortunately, the files needed for this project are too large to link to this project, and I have tried other methods of importing the files but have been unsuccessful. This lab will just be a walkthrough of what I did.***
 
