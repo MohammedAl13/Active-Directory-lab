@@ -17,7 +17,7 @@ In this project, we will set up a Windows Active Directory (AD) lab in Oracle Vi
 This home lab is perfect for learning Active Directory security concepts, testing attacks and defenses, and gaining hands-on experience in a real-world environment.
 
 **Components Used**
-
+------------------------------------------
 Oracle VirtualBox – Virtualization software
 
 Windows Server 2019 – Domain Controller
@@ -25,6 +25,22 @@ Windows Server 2019 – Domain Controller
 Windows 10 Client – Workstation joined to the domain
 
 PowerShell – Used to automate user creation in AD
+
+Lab Setup
+-----------------------------
+Install Oracle VirtualBox from the official website.
+
+Download Windows Server 2019 and Windows 10 ISOs.
+
+Install the VirtualBox Extension Pack for better compatibility.
+
+
+
+
+
+
+
+
 
 ***This home lab can be done for free. Unfortunately, the files needed for this project are too large to link to this project, and I have tried other methods of importing the files but have been unsuccessful. This lab will just be a walkthrough of what I did.***
 
