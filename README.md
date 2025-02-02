@@ -1,6 +1,8 @@
 # Active Directory Home Lab with Windows Server & PowerShell
 
-In this project, we will set up a Windows Active Directory (AD) lab in Oracle VirtualBox to simulate a basic enterprise network. This lab will help you understand Active Directory, networking, and Windows Server management, which are essential skills for cybersecurity and IT professionals.
+In this project, we will set up a Windows Active Directory (AD) lab in Oracle VirtualBox to simulate a basic enterprise network. This lab will help you understand Active Directory, networking, and Windows Server management, which are essential skills for cybersecurity and IT professionals. 
+
+This project is made based off of Josh Madakor's Active Directory Lab. All credit goes to him.
 
 **We will:**
 
@@ -28,11 +30,31 @@ PowerShell – Used to automate user creation in AD
 
 Lab Setup
 -----------------------------
-Install Oracle VirtualBox from the official website.
+--> Install Oracle VirtualBox from the official website.
 
-Download Windows Server 2019 and Windows 10 ISOs.
+--> Download Windows Server 2019 and Windows 10 ISOs.
 
-Install the VirtualBox Extension Pack for better compatibility.
+--> Install the VirtualBox Extension Pack for better compatibility.
+
+Before starting, we must download and set up a virtual box. This is very straightforward, so I will not provide a step-by-step guide. If you need assistance, watch a short tutorial on YouTube on how to do so. Just ensure it is from Oracle and adjust whatever you need to to meet your computer's standards.
+
+Also, on the same page there will the a download link to the VirtualBox Extension Pack, get that as well.
+
+Getting the Windows 10 ISO file is also quite simple; just follow this link and ensure you get Windows 10, ISO, 64-bit. https://www.microsoft.com/en-us/software-download/windows10
+
+Virtual Machine Setup
+--------------------------------------
+Now that virtual machine is running, click new and follow the specific configurations.
+
+For this first one, we will name it Domain Controller and in version type, select Other Windows (64-bit). Hit continue.
+
+Give the machine 2GB RAM. (Make sure you have enough on your machine first.) Hit continue.
+
+Then just hit contnue and accept all default configurations.
+
+Before we do anything else, first head on to settings in the domain controller and follow the listed directions:
+
+--> Under Gereral > Advanced tab, chaged shared clip board and Dragn'Drop to be Bidirectional
 
 
 
@@ -42,9 +64,10 @@ Install the VirtualBox Extension Pack for better compatibility.
 
 
 
-***This home lab can be done for free. Unfortunately, the files needed for this project are too large to link to this project, and I have tried other methods of importing the files but have been unsuccessful. This lab will just be a walkthrough of what I did.***
 
-Before starting, we must download and set up a virtual box. This is very straightforward, so I will not provide a step-by-step guide. If you need assistance, simply watch a short tutorial on YouTube on how to do so. Just ensure it is from Oracle and adjust whatever you need to to meet your computer's standards.
+
+
+
 
 Once the Virtual Box is set up, we can download and create our Kali Linux VM.
 
