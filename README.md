@@ -169,6 +169,10 @@ Next, navigate to tools section and do the following:
 
 If it doesn't show the network information where we can select the Internet connection, then just hit cancel and redo it. It will come the second time.
 
+Setup DHCP Server
+---------------------------------
+
+
 
 
 
