@@ -91,6 +91,31 @@ To do this, simply right click on 1 of them and click status. Now hit details an
 
 Now that you have identified them, to easily reference later, rename both Internet and internal, to the corresponding connection, or name it to whatever you find makes it easier to identify.
 
+Right click the Internal Connection and go to properties. Follow the next steps to assign the IP.
+
+![Screenshot 2025-02-03 115438](https://github.com/user-attachments/assets/a1ae52d5-616c-4f92-840f-3191d7faa97a)
+
+![Screenshot 2025-02-03 115608](https://github.com/user-attachments/assets/0f37e536-8484-44bf-bd33-d40dc231771f)
+
+Also, while you are in settings, head over to about section and rename the PC to Domain Controller and then restart.
+
+Active Directory Installation
+-------------------------------------------
+Once VM is restarted, a popup should be coming called Server Manager > Dashboard. We have been ignoring this until now.
+
+You will need to click on Add roles and features and just hit next. Inserver selction, you should only have 1 server so select it and hit next.
+
+In server roles, you will need to click Active Directory domain services. Make sure to not click the others. then continue clicking next and then install.
+
+![Screenshot 2025-02-03 120208](https://github.com/user-attachments/assets/a43353df-2fd8-477e-88f7-276391870020)
+
+
+
+
+
+
+
+
 
 
 
