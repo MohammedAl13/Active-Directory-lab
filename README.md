@@ -109,6 +109,37 @@ In server roles, you will need to click Active Directory domain services. Make s
 
 ![Screenshot 2025-02-03 120208](https://github.com/user-attachments/assets/a43353df-2fd8-477e-88f7-276391870020)
 
+On the top right of the screen, you should see a yellow falg, click it. Click the "Promote this server to a domain controller." Now follow these steps.
+
+![Screenshot 2025-02-03 134435](https://github.com/user-attachments/assets/c6c1f1a0-fc31-410a-861d-e5ba97fac44f)
+
+In root domain name, you can write any name you want, or write mydomain.com to make it easier.
+
+On the next screen in the password section, just type in the same password for your windows server. After this, just keep pressing next and then Install. The computer will now restart.
+
+Creating Personal Domain Account
+------------------------------------
+Follow the screenshots and directions to set account.
+
+![Screenshot 2025-02-03 134840](https://github.com/user-attachments/assets/ef5ac6e0-5fb5-4ee6-9ab2-bec357b79c3e)
+
+![Screenshot 2025-02-03 135050](https://github.com/user-attachments/assets/5017d735-ea68-4eec-8753-f42aeb0c3216)
+
+![Screenshot 2025-02-03 135124](https://github.com/user-attachments/assets/5e3d1a49-707c-4df0-99b3-9fe732364edc)
+
+Name it ADMINS and uncheck box.
+
+![Screenshot 2025-02-03 135224](https://github.com/user-attachments/assets/9d51d02f-6b18-48ce-962e-e2cdce7d593c)
+
+![Screenshot 2025-02-03 135333](https://github.com/user-attachments/assets/e0d9137f-9b49-4481-b682-5e775284ccad)
+
+Just put your first and last name and in the user logon name, you can put anything but naming convention prefers Initial of first name then last name with 'a-' at the front. EX: John Doe --> a-jdoe
+
+![Screenshot 2025-02-03 135721](https://github.com/user-attachments/assets/8e8b56ff-a33a-4fdd-b3f5-93ccdcea8b33)
+
+Uncheck and recheck the other box as seen in above screenshot.
+
+
 
 
 
