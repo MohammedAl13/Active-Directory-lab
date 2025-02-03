@@ -137,7 +137,16 @@ Just put your first and last name and in the user logon name, you can put anythi
 
 ![Screenshot 2025-02-03 135721](https://github.com/user-attachments/assets/8e8b56ff-a33a-4fdd-b3f5-93ccdcea8b33)
 
-Uncheck and recheck the other box as seen in above screenshot.
+Uncheck and recheck the other box as seen in above screenshot. Then hit next and finish.
+
+After this, you should see your name on the right console, right click and go to properties. In properties, go to member of and click add.
+
+![Screenshot 2025-02-03 140049](https://github.com/user-attachments/assets/d528a11b-6f5f-4afd-8748-7faf0269ab64)
+
+Type the following and hit check, then click ok, then apply.
+
+
+
 
 
 
