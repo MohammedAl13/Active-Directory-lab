@@ -143,7 +143,34 @@ After this, you should see your name on the right console, right click and go to
 
 ![Screenshot 2025-02-03 140049](https://github.com/user-attachments/assets/d528a11b-6f5f-4afd-8748-7faf0269ab64)
 
-Type the following and hit check, then click ok, then apply.
+Type the following and hit check, then click ok, then apply. After doing so, log out.
+
+When logging back in, choose at the bottom other user, and the user name will be the a-jdoe you created earlier and the password will be whatever you set. Keeping all passwords the same throughout this lab will make it easier to remember.
+
+Installing RAS / NAT
+-----------------------------------------
+In the server manager dashboard, click add roles and features. Keep hitting next until you reach the Server roles section. Follow the screenshots.
+
+![Screenshot 2025-02-03 153621](https://github.com/user-attachments/assets/dc4034af-f6c9-4535-9659-9553789670d2)
+
+![Screenshot 2025-02-03 153651](https://github.com/user-attachments/assets/f275dcc5-e2ae-44cc-a400-d2868a602c81)
+
+After doing those 2 configurations, hit next and then install.
+
+Next, navigate to tools section and do the following:
+
+![Screenshot 2025-02-03 153858](https://github.com/user-attachments/assets/1a42adf2-8662-4e3a-bd34-fcd861328f5b)
+
+![Screenshot 2025-02-03 153955](https://github.com/user-attachments/assets/305bf545-bfd4-4ad1-86b0-66b5565ced01)
+
+![Screenshot 2025-02-03 154012](https://github.com/user-attachments/assets/d3b078fe-3f6a-4917-87e7-958966252be3)
+
+![Screenshot 2025-02-03 154106](https://github.com/user-attachments/assets/20d4c924-e708-4456-80c2-acf9e16a7cc5)
+
+If it doesn't show the network information where we can select the Internet connection, then just hit cancel and redo it. It will come the second time.
+
+
+
 
 
 
