@@ -80,6 +80,17 @@ Now go to file explorer > This PC > CD Drive VirtualBox Guest Addition > VBoxWin
 
 Click and run it and hit next keeping all default settings and at the end, hit install.
 
+Next select reboot later and then shutdown the VM. After shutting down, start the VM again.
+
+Now go into settings > Networks & Internet > Ethernet > change adapter options. You will see 2 ethernet connections and now we need to determine which one is Internet facing and which one is internal facing.
+To do this, simply right click on 1 of them and click status. Now hit details and look at the IPv4 Address. If it starts with 10.0 etc, then this one is Internet facing, if it starts with 169. etc, then it is internal facing.
+
+![Screenshot 2025-02-03 114734](https://github.com/user-attachments/assets/18e2f356-333d-4833-96c8-b48fad1a744b)
+
+![Screenshot 2025-02-03 114826](https://github.com/user-attachments/assets/a07644fa-18fe-42ec-99f9-97f25e90dc2b)
+
+Now that you have identified them, to easily reference later, rename both Internet and internal, to the corresponding connection, or name it to whatever you find makes it easier to identify.
+
 
 
 
