@@ -171,8 +171,27 @@ If it doesn't show the network information where we can select the Internet conn
 
 Setup DHCP Server
 ---------------------------------
+Click Add Roles and click Next until Server Roles.
 
+![Screenshot 2025-02-04 111616](https://github.com/user-attachments/assets/86e38ab0-138a-42c8-8f6d-a47a260f36a1)
 
+After installing, go here:
+
+![Screenshot 2025-02-04 111916](https://github.com/user-attachments/assets/8b1a2953-947f-4492-9f63-ae2d096111b6)
+
+![Screenshot 2025-02-04 114503](https://github.com/user-attachments/assets/f167e052-8aff-4309-8e71-3fc149327030)
+
+![Screenshot 2025-02-04 114530](https://github.com/user-attachments/assets/4ffeda44-bec2-460b-af94-3f7a1baeced5)
+
+![Screenshot 2025-02-04 114554](https://github.com/user-attachments/assets/02826016-00f9-448c-9ba4-05adbafd024d)
+
+![Screenshot 2025-02-04 114710](https://github.com/user-attachments/assets/3da76cc1-6fbb-4d43-933f-4f6a6f620ad5)
+
+![Screenshot 2025-02-04 114729](https://github.com/user-attachments/assets/29bfb44c-dbba-4aab-9767-8bd562804749)
+
+![Screenshot 2025-02-04 114821](https://github.com/user-attachments/assets/d645aedd-d78b-4958-a651-c2f265a6bf6e)
+
+Make sure to click ADD after typing in the IP Address here.
 
 
 
