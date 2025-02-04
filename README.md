@@ -191,8 +191,13 @@ After installing, go here:
 
 ![Screenshot 2025-02-04 114821](https://github.com/user-attachments/assets/d645aedd-d78b-4958-a651-c2f265a6bf6e)
 
-Make sure to click ADD after typing in the IP Address here.
+Make sure to click ADD after typing the IP address here.
 
+![Screenshot 2025-02-04 150057](https://github.com/user-attachments/assets/86051391-4202-410f-8719-61447d12028b)
+
+After completing the steps, right-click the DHCP server to authorize, then refresh.
+
+![Screenshot 2025-02-04 150220](https://github.com/user-attachments/assets/f02d383f-ed3c-47f3-9b79-81a8359daf04)
 
 
 
