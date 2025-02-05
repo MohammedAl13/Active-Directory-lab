@@ -199,6 +199,9 @@ After completing the steps, right-click the DHCP server to authorize, then refre
 
 ![Screenshot 2025-02-04 150220](https://github.com/user-attachments/assets/f02d383f-ed3c-47f3-9b79-81a8359daf04)
 
+Using Powershell To Create Users
+------------------------------------------------
+
 
 
 
